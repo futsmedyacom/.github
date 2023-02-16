@@ -29,7 +29,7 @@ Futs Medya olarak dijitale yepyeni bir heyecan getirmek için ekip olarak çalı
 
 <br/>
 
-## Languages and Tools
+## Diller ve Araçlar
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
