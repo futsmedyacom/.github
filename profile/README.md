@@ -16,7 +16,7 @@ Futs Medya müşterilerini yüksek kalitede ve geniş bir hizmet yelpazesiyle bu
 
 Futs Medya olarak dijitale yepyeni bir heyecan getirmek için ekip olarak çalışmalarımız tüm hızıyla devam ediyor.
 
-🔭 Daha fazla bilgi ve hizmetler için [tıklayınız.](https://www.futsmedya.com/)
+🔭 Daha fazla bilgi ve hizmetler için [tıklayınız](https://www.futsmedya.com/).
 
 <a href="https://twitter.com/futsmedya" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
